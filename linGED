@@ -1,0 +1,3 @@
+#!/bin/bash
+
+java -cp ged.jar:bin/:lib/jcommander-1.58.jar cli.LinGED "$@"
