@@ -1,4 +1,4 @@
-# Optimal Assignment Kernels
+# Optimal Assignments in Linear Time for Graph Matching
 Source code for the paper [Computing Optimal Assignments in Linear Time for Approximate Graph Matching](https://arxiv.org/abs/1901.10356), Nils M. Kriege, Pierre-Louis Giscard, Franka Bause, Richard C. Wilson, ICDM 2019.
 
 ## Usage
