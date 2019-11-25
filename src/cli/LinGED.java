@@ -57,7 +57,7 @@ public class LinGED {
 	}
 
 	@Parameters(commandDescription = "Approximate pairwise graph edit distances using assignments under a tree distance. For graphs with discrete labels "
-			+ "a Weisfeiler-Lehman tree is used and Bisecting k-means clsutering for continous labels.")
+			+ "a Weisfeiler-Lehman tree is used and Bisecting k-means clustering for continuous labels.")
 	public static class CommandLinear extends GedConfig<Attributes, Attributes> {
 		@Parameter(names = { "-p","--partitions" }, description = "partitions, i.e., the number of clusters for datasets with real-valued attributes")
 		int partitions = 300;
