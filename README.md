@@ -15,7 +15,7 @@ The pairwise distances are written to the file `Letter-low_lin_ged.txt`.
 Run `ant` to build `ged.jar` from source. 
 
 ## Data sets
-The repository contains the datasets Letter-low and AIDS only. Further data sets are available from the website [Benchmark Data Sets for Graph Kernels](http://graphkernels.cs.tu-dortmund.de). Please note that our linear time implementation does not support graphs having discrete and continous labels.
+The repository contains the datasets Letter-low and AIDS only. Further data sets are available from the website [Benchmark Data Sets for Graph Kernels](http://graphkernels.cs.tu-dortmund.de). Please note that our linear time implementation does not support graphs having both discrete and continous labels.
 
 ## Terms and conditions
 When using our code please cite our ICDM 2019 paper.
